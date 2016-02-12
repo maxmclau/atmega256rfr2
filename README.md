@@ -1,4 +1,4 @@
-# ATmega256RFR2 Firmware & Bootloader [![License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://creativecommons.org/licenses/by-sa/4.0/) <img src="/.gitassets/header.png" width="180px" align="right" />
+# ATmega256RFR2 Firmware [![License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://creativecommons.org/licenses/by-sa/4.0/) <img src="/.gitassets/header.png" width="180px" align="right" />
 
 > 
 
