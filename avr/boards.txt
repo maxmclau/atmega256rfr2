@@ -20,6 +20,7 @@
 256RFR2XPRO.bootloader.file= mega256rfr2/stk500boot_v2_mega256rfr2.hex
 256RFR2XPRO.bootloader.unlock_bits=0x3F
 256RFR2XPRO.bootloader.lock_bits=0x0F
+256RFR2XPRO.build.board=256RFR2XPRO
 256RFR2XPRO.build.mcu=atmega256rfr2
 256RFR2XPRO.build.f_cpu=8000000L
 256RFR2XPRO.build.core=arduino:arduino
@@ -44,6 +45,7 @@
 256RFR2ZBITXPRO.bootloader.file= mega256rfr2 /stk500boot_v2_zigbitextpro.hex
 256RFR2ZBITXPRO.bootloader.unlock_bits=0x3F
 256RFR2ZBITXPRO.bootloader.lock_bits=0x0F
+256RFR2ZBITXPRO.build.board=256RFR2ZBITXPRO
 256RFR2ZBITXPRO.build.mcu=atmega256rfr2
 256RFR2ZBITXPRO.build.f_cpu=8000000L
 256RFR2ZBITXPRO.build.core=arduino:arduino
@@ -67,6 +69,7 @@
 256RFR2ZBIT.bootloader.file= mega256rfr2 /stk500boot_v2_256rfr2zigbit.hex
 256RFR2ZBIT.bootloader.unlock_bits=0x3F
 256RFR2ZBIT.bootloader.lock_bits=0x0F
+256RFR2ZBIT.build.board=256RFR2ZBIT
 256RFR2ZBIT.build.mcu=atmega256rfr2
 256RFR2ZBIT.build.f_cpu=8000000L
 256RFR2ZBIT.build.core=arduino:arduino
