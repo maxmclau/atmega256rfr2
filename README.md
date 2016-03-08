@@ -1,9 +1,13 @@
-# ATmega256RFR2 Firmware [![License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://creativecommons.org/licenses/by-sa/4.0/) <img src="/.gitassets/header.png" width="180px" align="right" />
+# Atmega256rfr2
 
-> 
+Arduino bootloader and board definition for Atmel's ATmega256RFR2
 
-## Notes
+#### Install
 
-[![CC4](https://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
+```Shell
+$ cd ~/Documents/Arduino/hardware
+$ git clone https://github.com/maxmclau/atmega256rfr2.git
+```
+#### License
 
-Open source [Creative Commons ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) license.
+[**`MIT`**](LICENSE)
