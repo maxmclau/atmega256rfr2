@@ -1,4 +1,4 @@
-# Atmega256rfr2
+# ATmega256rfr2
 
 Arduino bootloader and board definition for Atmel's ATmega256RFR2
 
